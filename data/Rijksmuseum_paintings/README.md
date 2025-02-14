@@ -1,0 +1,2 @@
+This is a downsampled subset of the painting images contained in the
+CC0 torrent of all Rijksmuseum images at [academic torrents](https://academictorrents.com/details/db3cd9defd6d3f16f0a0e6cd0ada882792b9f782)
