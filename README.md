@@ -6,3 +6,7 @@ This is the github repo for the 2025 version of the ENS MVA course on [AI and Co
 - Notebooks, for example those developed in class, are in the [notebooks](https://github.com/erdmann/MVA_2025/tree/main/notebooks) folder
 - Data are, where possible, in the [data](https://github.com/erdmann/MVA_2025/tree/main/data) folder, but in cases in which the files are too large, they may also appear in the [releases](https://github.com/erdmann/MVA_2025/releases) section.
 
+# News
+
+2025-03-06: [Assignment 2](https://github.com/erdmann/MVA_2025/blob/main/assignments/MVA_2025_AICVCH_Assignment_2.ipynb) is posted.  It is due on March 17.
+
