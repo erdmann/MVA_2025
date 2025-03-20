@@ -8,6 +8,10 @@ This is the github repo for the 2025 version of the ENS MVA course on [AI and Co
 
 # News
 
+2025-03-20
+
+- [Assignment 3](https://github.com/erdmann/MVA_2025/blob/main/assignments/MVA_2025_AICVCH_Assignment_3.ipynb) is posted.  I gave explicit instructions for most all of the steps, so it should be relatively straightforward.  It's due on March 27.
+
 
 2025-03-14
 - Some additional links are posted below for some lecture notes and other useful information.
