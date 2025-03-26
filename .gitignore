@@ -7,3 +7,4 @@ data/Rijksmuseum_paintings/Resnet152_v01.jpg
 data/Rijksmuseum_paintings/Resnet152_v02.jpg
 data/Rijksmuseum_paintings/ResNextLarge_v01_full.v
 data/Rijksmuseum_paintings/ResNextLarge_v01.jpg
+data/ink_removal/**/*.jpg
