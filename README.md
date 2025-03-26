@@ -96,3 +96,11 @@ This is the github repo for the 2025 version of the ENS MVA course on [AI and Co
     *   Title: DINOv2: Learning Robust Visual Features without Supervision
     *   Link: [arXiv:2304.07193](https://arxiv.org/abs/2304.07193)
     *   Also See: [GitHub](https://github.com/facebookresearch/dinov2), [HuggingFace](https://huggingface.co/docs/transformers/main/en/model_doc/dinov2), and [Meta AI Demos](https://metademolab.com/projects/dino-v2)
+
+# Online Interactive Visualizations
+
+* R.G. Erdmann. “Automatically colorized radiograph for Vermeer’s Milkmaid, (Rijksmuseum SK-A-2344)”. 2023-01-08. Online at http://tinyurl.com/2pp9yd4s
+* R.G. Erdmann. “Evidence of stress-induced craquelure through high-resolution image coherence angle analysis of Vermeer’s Milkmaid (Rijksmuseum SK-A-2344). images.erdmann.io, 2023-01-08. Online at http://tinyurl.com/r7w6vrru
+* R.G. Erdmann. “Interactive visualization of canvas support thread angles in Vermeer’s Milkmaid (Rijksmuseum SK-A-2344)”, images.erdmann.io, 2023-01-10. Online at http://tinyurl.com/bdda4mvr
+* R.G. Erdmann with RIS data collected by F. Gabrieli. “An online interactive tool for false-color image creation from a fused RIS-VNIR+RIS-SWIR dataset for Vermeer’s Milkmaid (Rijksmuseum SK-A-2344)”, images.erdmann.io, 2023-01-10. Online at http://tinyurl.com/4jrbjc8c
+* R.G. Erdmann with MA-XRF data collected by A. van Loon. “Demonstration of a neural network-based approach for denoising and deconvolution of raw MA-XRF scans with several elemental maps from Vermeer’s Milkmaid (Rijksmuseum SK-A-2344)”, images.erdmann.io, 2023-01-12, Online at http://tinyurl.com/4t5dnm9c
