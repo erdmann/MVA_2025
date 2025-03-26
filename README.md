@@ -24,6 +24,9 @@ This is the github repo for the 2025 version of the ENS MVA course on [AI and Co
 
 # Links
 
+* **Color Theory**
+  - [PDF on basics of color theory](https://web.archive.org/web/20180418143253/https://www.hunterlab.com/duplicate-of-basics-of-color-theory.pdf?r=false)
+
 * **The Structure Tensor** 
   - [Lecture notes from Linköping University](https://web.archive.org/web/20210424061948/http://www.cvl.isy.liu.se/en/education/undergraduate/tsbb15/lectures/lecture-03.pdf) Provides a variety of motivations for the structure tensor and coherence measures.
   
