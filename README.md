@@ -61,7 +61,6 @@ This is the github repo for the 2025 version of the ENS MVA course on [AI and Co
     * [Multiscale Texture Enhancement](https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/570/file/gruen_139.pdf)  Gives explicit derivations for the eigenvalues and eigenvectors of the structure tensor in Eqs. (10) and (11).
 
 *   **ConvNeXt:**
-
     *   Title: A ConvNet for the 2020s
     *   Link: [arXiv:2201.03545](https://arxiv.org/abs/2201.03545)
     *   Also see: [GitHub Code Release](https://github.com/facebookresearch/ConvNeXt)
@@ -100,6 +99,10 @@ This is the github repo for the 2025 version of the ENS MVA course on [AI and Co
     *   Link: [arXiv:2304.07193](https://arxiv.org/abs/2304.07193)
     *   Also See: [GitHub](https://github.com/facebookresearch/dinov2), [HuggingFace](https://huggingface.co/docs/transformers/main/en/model_doc/dinov2), and [Meta AI Demos](https://metademolab.com/projects/dino-v2)
 
+*   **Pigment Mapping:**
+    *   Title: Use of imaging spectroscopy, fiber optic reflectance spectroscopy, and X-ray fluorescence to map and identify pigments in illuminated manuscripts
+    *   Link: [Taylor & Francis Online](https://www.tandfonline.com/doi/full/10.1179/2047058412Y.0000000078#abstract)
+
 # Online Interactive Visualizations
 
 * R.G. Erdmann. “Automatically colorized radiograph for Vermeer’s Milkmaid, (Rijksmuseum SK-A-2344)”. 2023-01-08. Online at http://tinyurl.com/2pp9yd4s
@@ -107,3 +110,5 @@ This is the github repo for the 2025 version of the ENS MVA course on [AI and Co
 * R.G. Erdmann. “Interactive visualization of canvas support thread angles in Vermeer’s Milkmaid (Rijksmuseum SK-A-2344)”, images.erdmann.io, 2023-01-10. Online at http://tinyurl.com/bdda4mvr
 * R.G. Erdmann with RIS data collected by F. Gabrieli. “An online interactive tool for false-color image creation from a fused RIS-VNIR+RIS-SWIR dataset for Vermeer’s Milkmaid (Rijksmuseum SK-A-2344)”, images.erdmann.io, 2023-01-10. Online at http://tinyurl.com/4jrbjc8c
 * R.G. Erdmann with MA-XRF data collected by A. van Loon. “Demonstration of a neural network-based approach for denoising and deconvolution of raw MA-XRF scans with several elemental maps from Vermeer’s Milkmaid (Rijksmuseum SK-A-2344)”, images.erdmann.io, 2023-01-12, Online at http://tinyurl.com/4t5dnm9c
+* R.G. Erdmann. "Images from Rembrandt's drawing of Saskia van Uylenburgh (Rijksmuseum, RP-T-1930-51)", images.erdmann.io. Online at https://images.erdmann.io/Draper/?collection=/Rijksmuseum/RP-T-1930-51
+
