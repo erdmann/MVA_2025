@@ -34,6 +34,26 @@ This is the github repo for the 2025 version of the ENS MVA course on [AI and Co
 
 # Papers
 
+*   **RANSAC-Flow:**
+
+    *   Title: RANSAC-Flow: generic two-stage image alignment
+    *   Link: [arXiv:2004.01526](https://arxiv.org/abs/2004.01526)
+
+*   **W-Net:**
+
+    *   Title: The Little W-Net That Could: State-of-the-Art Retinal Vessel Segmentation with Minimalistic Models
+    *   Link: [arXiv:2009.01907](https://arxiv.org/abs/2009.01907)
+
+*   **U-Net:**
+
+    *   Title: U-Net: Convolutional Networks for Biomedical Image Segmentation
+    *   Link: [arXiv:1505.04597](https://arxiv.org/abs/1505.04597)
+
+*   **Image Style Transfer:**
+
+    *   Title: Image Style Transfer Using Convolutional Neural Networks
+    *   Link: [CVPR Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html)
+
 *   **The Structure Tensor**
     * [Multiscale Texture Enhancement](https://kluedo.ub.rptu.de/frontdoor/deliver/index/docId/570/file/gruen_139.pdf)  Gives explicit derivations for the eigenvalues and eigenvectors of the structure tensor in Eqs. (10) and (11).
 
